@@ -2,7 +2,8 @@ import json
 import random
 import requests
 
-API_URL = "https://api.quotable.io/random"
+# API alternativa gratuita e ativa
+API_URL = "https://dummyjson.com/quotes/random"
 LOCAL_FILE = "quotes.json"
 
 
@@ -12,7 +13,8 @@ def fetch_online_quote():
         response = requests.get(API_URL, timeout=5)
         response.raise_for_status()
         data = response.json()
-        return {"content": data["content"], "author": data["author"]}
+        # O DummyJSON devolve as chaves 'quote' e 'author'
+        return {"content": data["quote"], "author": data["author"]}
     except (requests.RequestException, KeyError):
         return None
 
