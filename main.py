@@ -37,13 +37,25 @@ def get_quote():
     return quote
 
 
+# Códigos de cores ANSI
+CYAN = "\033[96m"
+YELLOW = "\033[93m"
+GREEN = "\033[92m"
+RESET = "\033[0m"
+BOLD = "\033[1m"
+
+
 def format_quote(quote):
-    """Formata a exibição da citação no terminal."""
+    """Formata a exibição da citação no terminal com cores."""
     if not quote:
         return "Nenhuma citação encontrada."
 
     border = "─" * (len(quote['author']) + 10)
-    return f'\n"{quote["content"]}"\n{border}\n— {quote["author"]}\n'
+    return (
+        f"\n{CYAN}\"{quote['content']}\"{RESET}\n"
+        f"{YELLOW}{border}{RESET}\n"
+        f"— {GREEN}{BOLD}{quote['author']}{RESET}\n"
+    )
 
 
 def main():
