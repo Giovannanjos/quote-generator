@@ -1,10 +1,16 @@
-📝 Sobre o Projeto
-O Quote Generator é um script em Python que gera citações inspiradoras direto no terminal.
-Criei o projeto para praticar consumo de APIs e tratamento de erros de conexão:
-#Modo Online: Puxa frases em tempo real da API pública Quotable.
-#Modo Offline: Se a internet cair ou a API falhar, ele carrega automaticamente as frases salvas no quotes.json.
+# 💬 Random Quote Generator (Python)
 
-🛠️ Tecnologias
-#Python 3
-#Biblioteca requests para chamadas HTTP
-#Manipulação de dados com json
+Um gerador de citações inspiradoras desenvolvido em Python. Ele busca citações em tempo real de uma API externa e possui suporte a fallback offline usando um arquivo JSON local.
+
+## 🚀 Funcionalidades
+
+- 🌐 Busca citações aleatórias via API Web.
+- 📴 Modo offline automático caso a conexão falhe.
+- 💻 Interface interativa via linha de comando (CLI).
+
+## 🛠️ Como Executar
+
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/SEU-USUARIO/quote-generator.git](https://github.com/SEU-USUARIO/quote-generator.git)
+   cd quote-generator
