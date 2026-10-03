@@ -27,5 +27,5 @@ Criei o projeto para praticar consumo de APIs RESTful e tratamento de erros de c
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/quote-generator.git](https://github.com/SEU-USUARIO/quote-generator.git)
+   git clone [https://github.com/Giovannanjos/quote-generator.git](https://github.com/Giovannanjos/quote-generator.git)
    cd quote-generator
