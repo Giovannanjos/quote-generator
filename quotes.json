@@ -1,26 +1,127 @@
 [
   {
     "content": "A única maneira de fazer um excelente trabalho é amar o que você faz.",
-    "author": "Steve Jobs"
+    "author": "Steve Jobs",
+    "tags": ["work", "inspirational"]
   },
   {
     "content": "A simplicidade é o último grau de sofisticação.",
-    "author": "Leonardo da Vinci"
+    "author": "Leonardo da Vinci",
+    "tags": ["wisdom", "life"]
   },
   {
     "content": "Não importa o quão devagar você vá, desde que não pare.",
-    "author": "Confúcio"
+    "author": "Confúcio",
+    "tags": ["inspirational", "perseverance"]
   },
   {
-    "content": "A mente que se abre a uma nova idéia jamais voltará ao seu tamanho original.",
-    "author": "Albert Einstein"
+    "content": "A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.",
+    "author": "Albert Einstein",
+    "tags": ["knowledge", "wisdom"]
   },
   {
     "content": "Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado.",
-    "author": "Roberto Shinyashiki"
+    "author": "Roberto Shinyashiki",
+    "tags": ["inspirational", "life"]
   },
   {
     "content": "A coragem não é a ausência do medo, mas a decisão de que algo é mais importante que o medo.",
-    "author": "Ambrose Redmoon"
+    "author": "Ambrose Redmoon",
+    "tags": ["inspirational", "courage"]
+  },
+  {
+    "content": "Conhece-te a ti mesmo e conhecerás o universo e os deuses.",
+    "author": "Sócrates",
+    "tags": ["philosophy", "wisdom"]
+  },
+  {
+    "content": "O segredo da mudança é focar toda a sua energia não em combater o velho, mas em construir o novo.",
+    "author": "Sócrates",
+    "tags": ["change", "wisdom"]
+  },
+  {
+    "content": "O que não nos mata nos torna mais fortes.",
+    "author": "Friedrich Nietzsche",
+    "tags": ["philosophy", "strength"]
+  },
+  {
+    "content": "No meio da dificuldade encontra-se a oportunidade.",
+    "author": "Albert Einstein",
+    "tags": ["opportunity", "inspirational"]
+  },
+  {
+    "content": "Seja a mudança que você quer ver no mundo.",
+    "author": "Mahatma Gandhi",
+    "tags": ["change", "inspirational"]
+  },
+  {
+    "content": "Agir, eis a inteligência verdadeira. Serei o que quiser, mas tenho que querer o que for.",
+    "author": "Fernando Pessoa",
+    "tags": ["literature", "life"]
+  },
+  {
+    "content": "Não se pode ensinar nada a um homem; só se pode ajudá-lo a encontrar a resposta dentro de si mesmo.",
+    "author": "Galileu Galilei",
+    "tags": ["knowledge", "wisdom"]
+  },
+  {
+    "content": "A dúvida é o princípio da sabedoria.",
+    "author": "Aristóteles",
+    "tags": ["philosophy", "wisdom"]
+  },
+  {
+    "content": "Quem tem um 'porquê' para viver pode suportar quase qualquer 'como'.",
+    "author": "Friedrich Nietzsche",
+    "tags": ["philosophy", "life"]
+  },
+  {
+    "content": "Renda-se, como eu me rendi. Chegue ao término de algo e recomece, sem as mesmas forças de antes, mas com a descoberta de que a força de antes não servia para nada.",
+    "author": "Clarice Lispector",
+    "tags": ["literature", "life", "wisdom", "clarice"]
+  },
+  {
+    "content": "Até cortar os próprios defeitos pode ser perigoso. Nunca se sabe qual é o defeito que sustenta nosso edifício.",
+    "author": "Clarice Lispector",
+    "tags": ["literature", "philosophy", "wisdom", "clarice"]
+  },
+  {
+    "content": "Que ninguém se engane, só se consegue a simplicidade através de muito trabalho.",
+    "author": "Clarice Lispector",
+    "tags": ["literature", "work", "wisdom", "clarice"]
+  },
+  {
+    "content": "A palavra é o meu domínio sobre o mundo.",
+    "author": "Clarice Lispector",
+    "tags": ["literature", "knowledge", "clarice"]
+  },
+  {
+    "content": "Liberdade é pouco. O que eu desejo ainda não tem nome.",
+    "author": "Clarice Lispector",
+    "tags": ["literature", "inspirational", "life", "clarice"]
+  },
+  {
+    "content": "Sou composta por perdas e danos, mas também por recomeços.",
+    "author": "Clarice Lispector",
+    "tags": ["literature", "perseverance", "life", "clarice"]
+  },
+  {
+    "content": "Ela acreditava em anjo e, porque acreditava, eles existiam.",
+    "author": "Clarice Lispector",
+    "tags": ["literature", "inspirational", "clarice"]
+  },
+  {
+    "content": "E não esquecer que a estrutura da tempestade é que é a paz.",
+    "author": "Clarice Lispector",
+    "tags": ["literature", "philosophy", "clarice"]
+  },
+  {
+    "content": "Não se preocupe em entender. Viver ultrapassa todo entendimento.",
+    "author": "Clarice Lispector",
+    "tags": ["literature", "life", "wisdom", "clarice"]
+  },
+  {
+    "content": "Gostar de ser você mesmo é o primeiro passo para gostar de qualquer outra coisa.",
+    "author": "Clarice Lispector",
+    "tags": ["literature", "inspirational", "clarice"]
   }
 ]
