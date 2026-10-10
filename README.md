@@ -14,7 +14,8 @@ Criei o projeto para praticar consumo de APIs RESTful e tratamento de erros de c
 - **Modo Online:** Puxa frases em tempo real da API pública DummyJSON.
 - **Modo Offline:** Se a internet cair ou a API falhar, ele carrega automaticamente as frases salvas no `quotes.json`.
 - **Terminal Colorido:** Saída formatada com cores ANSI para melhor legibilidade.
-  
+- **Filtro por Categorias:** Escolha temas como Inspiradoras, Sabedoria, Vida ou Histórico.
+
 ---
 
 ## 🛠️ Tecnologias
